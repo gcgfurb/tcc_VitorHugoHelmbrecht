@@ -15,3 +15,9 @@ Primeira revisão do pré-proejto: [2022-09-01_PreProjeto_Dalton](2022-09-01_Pre
 ## 2022-10-02 - 17:05
 
 Segunda revisão do pré-projeto: [2022-09-30_PreProjeto_Dalton](2022-09-30_PreProjeto_Dalton.pdf "2022-09-30_PreProjeto_Dalton")  
+
+## 2022-10-12 - 12:02
+
+Pré-projeto: versão entregue para banca.  
+Ainda deveria ter mais rodadas de revisão, mas passou o prazo de entrega.  
+[2022-10-12_PreProjeto_Dalton](2022-10-12_PreProjeto_Dalton.pdf "2022-10-12_PreProjeto_Dalton")  
