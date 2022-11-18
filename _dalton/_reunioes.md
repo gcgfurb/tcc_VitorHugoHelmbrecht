@@ -21,3 +21,7 @@ Segunda revisão do pré-projeto: [2022-09-30_PreProjeto_Dalton](2022-09-30_PreP
 Pré-projeto: versão entregue para banca.  
 Ainda deveria ter mais rodadas de revisão, mas passou o prazo de entrega.  
 [2022-10-12_PreProjeto_Dalton](2022-10-12_PreProjeto_Dalton.pdf "2022-10-12_PreProjeto_Dalton")  
+
+## 2022-11-17 - 23:29
+
+[2022-11-17_PreProjeto_Defesa.mp4](2022-11-17_PreProjeto_Defesa.mp4 "2022-11-17_PreProjeto_Defesa.mp4")  
