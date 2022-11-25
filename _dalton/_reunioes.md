@@ -25,3 +25,7 @@ Ainda deveria ter mais rodadas de revisão, mas passou o prazo de entrega.
 ## 2022-11-17 - 23:29
 
 [2022-11-17_PreProjeto_Defesa.mp4](2022-11-17_PreProjeto_Defesa.mp4 "2022-11-17_PreProjeto_Defesa.mp4")  
+
+## 2022-11-24 - 21:45
+
+[2022-11-24_EMail.pdf](2022-11-24_EMail.pdf "2022-11-24_EMail.pdf")  
