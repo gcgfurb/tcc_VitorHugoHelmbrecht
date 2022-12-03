@@ -29,3 +29,7 @@ Ainda deveria ter mais rodadas de revisão, mas passou o prazo de entrega.
 ## 2022-11-24 - 21:45
 
 [2022-11-24_EMail.pdf](2022-11-24_EMail.pdf "2022-11-24_EMail.pdf")  
+
+## 2022-12-03 - 10:52
+
+[2022-12-01_EMail.pdf](2022-12-01_EMail.pdf "2022-12-01_EMail.pdf")  
