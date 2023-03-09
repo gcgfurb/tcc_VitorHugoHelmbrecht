@@ -33,3 +33,50 @@ Ainda deveria ter mais rodadas de revisão, mas passou o prazo de entrega.
 ## 2022-12-03 - 10:52
 
 [2022-12-01_EMail.pdf](2022-12-01_EMail.pdf "2022-12-01_EMail.pdf")  
+
+## 2023-03-02 - 17:44
+
+Consequências: Um Jogo de Exploração Utilizando Realidade Virtual com Ilusão de Ótica sobre Conscientização Ambiental
+
+Ilusão de Ótica: Vignettes
+Conscientização Ambiental
+
+Jogo de exemplo: <https://www.youtube.com/watch?v=O4O8mbJXneY>
+
+### Teórica
+
+Deixar uma semanas. Ver TCC2. Arrumar sugestões.  
+
+### Pessoas
+
+Dalton: conscientização ambiental - achar alguém PROPEX, Roberta.  
+
+### Prática
+
+a) 3 fases para o usuário
+b) 15 objetos
+c) conter uma história
+d) conter música e efeitos sonoros
+
+e) permitir a pausa durante a fase
+f) permitir que o usuário possa sair durante a fase; (RF);
+g) conter um menu para ajustar níveis sonoros. (RF);
+i) utilizar o software Blender para o desenvolvimento de gráficos. (RNF)
+
+### Tarefa
+
+- Unity + IDE (TLS)
+- Escolher um objeto 3D: Vignettes
+
+16/03 mostrar para um especialista
+
+- fazer storyborid de uma cena  
+- pegar material de conscientização deles
+
+Passar os Assets da Synty Studio  
+
+## 2023-03-09 - 17:32
+
+Não conseguiu avançar no protótipo. Pediu mais tempo.  
+Comentei que dia 22/03 (quarta) teremos reunião do Habitat e seria bom levar alguma coisa.  
+Vai tentar fazer um "rascunho" das ideias.  
