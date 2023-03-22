@@ -81,4 +81,8 @@ Não conseguiu avançar no protótipo. Pediu mais tempo.
 Comentei que dia 22/03 (quarta) teremos reunião do Habitat e seria bom levar alguma coisa.  
 Vai tentar fazer um "rascunho" das ideias.  
 
-https://lnk.bio/pedeterra
+## 2023-03-21 - 21:45
+
+Dalton Reis: Mencionasse no relatório de TCC do "Vitor Hugo Helmbrecht". Quem seria a pessoa especialista em "Questões Ambientais"?  
+
+Maurício Capobianco Lopes: O Nando que faz mestrado no PPGECIM. O Vitor já falou comigo e eu já falei com ele. Contato do Nano: <https://lnk.bio/pedeterra>  
