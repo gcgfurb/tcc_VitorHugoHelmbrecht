@@ -80,3 +80,5 @@ Passar os Assets da Synty Studio
 Não conseguiu avançar no protótipo. Pediu mais tempo.  
 Comentei que dia 22/03 (quarta) teremos reunião do Habitat e seria bom levar alguma coisa.  
 Vai tentar fazer um "rascunho" das ideias.  
+
+https://lnk.bio/pedeterra
