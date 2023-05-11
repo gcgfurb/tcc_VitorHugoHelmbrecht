@@ -86,3 +86,17 @@ Vai tentar fazer um "rascunho" das ideias.
 Dalton Reis: Mencionasse no relatório de TCC do "Vitor Hugo Helmbrecht". Quem seria a pessoa especialista em "Questões Ambientais"?  
 
 Maurício Capobianco Lopes: O Nando que faz mestrado no PPGECIM. O Vitor já falou comigo e eu já falei com ele. Contato do Nano: <https://lnk.bio/pedeterra>  
+
+## 2023-04-27 - 17:32
+
+- já está usando o NaveMesh  
+- chegou o Oculus Quest 2  
+
+## 2023-05-11 - 18:36
+
+Indicou para GitIgnore: <https://www.toptal.com/developers/gitignore>  
+
+Usou para configurar Unity para o Oculus Quest 2: <https://www.youtube.com/watch?v=_Zrde_WTaiI&pp=ygUfdnIgdW5pdHkgY29udHJvbGxlciBtb3ZlbWVudCB4cg%3D%3D>  
+Mas era um video antigo, e teve que atualizar algumas coias.  
+
+Usou para rodar o Unity no Oculus Quest 2: <https://www.meta.com/pt-br/help/quest/articles/getting-started/getting-started-with-rift-s/install-oculus-pc-app/>  
