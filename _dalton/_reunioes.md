@@ -107,7 +107,7 @@ Usou para rodar o Unity no Oculus Quest 2: <https://www.meta.com/pt-br/help/ques
 
 Histórias definidas com a participação do [Nando](#nando).  
 
-### História 1: Copo se transformando em microplástico nas praias;
+### História 1: Copo se transformando em microplástico nas praias
 
 - Começa com um cara qualquer comprando o refrigerante na hamburgueria e jogando o copo fora depois de tomar tudo que tem dentro;  
 - O copo é o primeiro objeto, vai ser convertido em uma nuvem (mesmo que fique um pouco forçado, dá pra fazer);  
@@ -121,7 +121,7 @@ Histórias definidas com a participação do [Nando](#nando).
 - Devido a ingerir o peixe com muito microplástico, o humano passa mal ao comer;  
 - Nisso, a cena final seria de um médico apontando para uma imagem de um pulmão com vários pontinhos que representam os microplásticos.  
 
-### História 2: Descarte inadequado de lixo eletrônico;
+### História 2: Descarte inadequado de lixo eletrônico
 
 - Começa a história com o personagem acordando ao som dos pássaros;  
 - Passa o caminhão de lixo eletrônico na rua do personagem;  
@@ -133,7 +133,7 @@ Histórias definidas com a participação do [Nando](#nando).
 - Deixa claro que o caminhão está quase vázio e faz ele parar em um depósito;  
 - Colocar um único cifrão subindo de lá como se estivesse gerando um pouco de dinheiro a partir da venda.  
 
-### História 3: Um mix entre as duas primeiras, mas da maneira correta.
+### História 3: Um mix entre as duas primeiras, mas da maneira correta
 
 - Começa com um cara qualquer comprando o refrigerante na hamburgueria e jogando o copo fora dentro de uma lata de lixo depois de tomar tudo que tem dentro;  
 - Passa o caminhão da reciclagem, leva até um armazém;  
