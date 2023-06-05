@@ -1,8 +1,8 @@
 # TCC
 
-Ano/Semestre: XXXX-XX  
-Acadêmico(a): XXXXXXXX	Orientador(a): Dalton Solano dos Reis  
-Título: XXXXX  
+Ano/Semestre: 2023-01  
+Acadêmico(a): Vitor Hugo Helmbrecht	Orientador(a): Dalton Solano dos Reis  
+Título: Consequências
 Membros da Banca Examinadora: XXXX - XXXXX  
 
 ----
