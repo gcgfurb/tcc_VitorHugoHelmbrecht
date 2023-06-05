@@ -145,3 +145,7 @@ Histórias definidas com a participação do [Nando](#nando).
 - Deixa claro que o caminhão está quase cheio e faz ele parar em um depósito;  
 - Colocar um único cifrão subindo de lá como se estivesse gerando bastante dinheiro a partir da venda.  
 - O personagem compra uma câmera ou um celular novo que veio com partes do notebook jogado fora e usa isso para tirar fotos dos pássaros com os quais ele acorda todos os dia;  
+
+## 2023-06-05 - 19:15
+
+[Como Ativar Modo Desenvolvedor Oculus Quest / Quest 2](<https://www.youtube.com/watch?v=KMWfclzw7PM>)  
