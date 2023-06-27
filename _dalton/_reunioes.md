@@ -149,3 +149,7 @@ Histórias definidas com a participação do [Nando](#nando).
 ## 2023-06-05 - 19:15
 
 [Como Ativar Modo Desenvolvedor Oculus Quest / Quest 2](<https://www.youtube.com/watch?v=KMWfclzw7PM>)  
+
+## 2023-06-27 - 11:47
+
+[Artigo_2023-06-27_EntregueBanca.pdf](Artigo_2023-06-27_EntregueBanca.pdf)  
