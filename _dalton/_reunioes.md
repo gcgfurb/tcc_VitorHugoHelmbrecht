@@ -10,7 +10,7 @@ Conversamos sobre orientação de TCC. Chegamos a um assunto para o Termo de TCC
 
 ## 2022/09/01
 
-Primeira revisão do pré-proejto: [2022-09-01_PreProjeto_Dalton](2022-09-01_PreProjeto_Dalton.pdf "2022-09-01_PreProjeto_Dalton")  
+Primeira revisão do pré-projeto: [2022-09-01_PreProjeto_Dalton](2022-09-01_PreProjeto_Dalton.pdf "2022-09-01_PreProjeto_Dalton")  
 
 ## 2022-10-02 - 17:05
 
@@ -130,7 +130,7 @@ Histórias definidas com a participação do [Nando](#nando).
 - Devido a isso, a água e o terreno próximos do local são contaminados e devido a isso, plantas/animais da região começam a se contaminar também.  
 - Levando isso em consideração, podemos fazer um caso onde lá no começo, a pessoa que jogou o lixo fora incorretamente estava acostumada a acordar com o canto dos pássaros próxima da sua janela, mas agora os pássaros não estão mais lá.
 - Faz uma transição pro caminhão de lixo eletrônico de volta;  
-- Deixa claro que o caminhão está quase vázio e faz ele parar em um depósito;  
+- Deixa claro que o caminhão está quase vazio e faz ele parar em um depósito;  
 - Colocar um único cifrão subindo de lá como se estivesse gerando um pouco de dinheiro a partir da venda.  
 
 ### História 3: Um mix entre as duas primeiras, mas da maneira correta
@@ -153,3 +153,38 @@ Histórias definidas com a participação do [Nando](#nando).
 ## 2023-06-27 - 11:47
 
 [Artigo_2023-06-27_EntregueBanca.pdf](Artigo_2023-06-27_EntregueBanca.pdf)  
+
+## 2023-07-04 - 17:01
+
+Colocar um citação para o Nando nos trechos do texto.  
+
+17:37 -> 37 minutos  
+
+### Valdameri
+
+Gostou da escolha do assunto.  
+Num "pique" grande.  
+Ter mais sobre a narrativa das fases, etc. Melhorar a roterização descrevendo as cenas. E, os tipos de interações das cenas.  
+Aumentar as descrição das imagens das especificações.  
+Trechos de código talvez colocar no apêndice.  
+Será que vale a pena incluir citações para vídeos.  
+Melhorar o fechamento da conclusão com mensagens positivas do que pode ser feito para o próximo.  
+
+### Maurício
+
+Gostou do tema.  
+Ter mais explicação no texto.  
+Ilusão de ótica: ter mais ... só um canudo para uma gota de chuva.  
+  Vender melhor está parte da **ilusão de ótica**.  
+Colocar as transições no Apêndice.  
+Reforça mais para aparecer o "texto" ilusão de ótica.  
+Ter nos resultados uma comparação com os Trabalhos Correlatos.  
+Mudar um Grafo de Cena.  
+Melhorar a imagem do TimeLine.  
+
+Gostou a apresentação ... ficou melhor que no texto. Na parte da Introdução.  
+Realidade Virtual Imersiva.  
+
+## 2023-07-04 - 19:48 Revisão Maurício
+
+[Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
