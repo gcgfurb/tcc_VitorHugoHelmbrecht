@@ -154,7 +154,9 @@ Histórias definidas com a participação do [Nando](#nando).
 
 [Artigo_2023-06-27_EntregueBanca.pdf](Artigo_2023-06-27_EntregueBanca.pdf)  
 
-## 2023-07-04 - 17:01
+## 2023-07-04 - 17:01 Defesa
+
+[Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
 
 Colocar um citação para o Nando nos trechos do texto.  
 
@@ -184,7 +186,3 @@ Melhorar a imagem do TimeLine.
 
 Gostou a apresentação ... ficou melhor que no texto. Na parte da Introdução.  
 Realidade Virtual Imersiva.  
-
-## 2023-07-04 - 19:48 Revisão Maurício
-
-[Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
