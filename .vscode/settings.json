@@ -2,5 +2,6 @@
   "cSpell.words": [
     "microplástico",
     "microplásticos"
-  ]
+  ],
+  "dotnet.defaultSolution": "VR_TCC/VR TCC.sln"
 }
