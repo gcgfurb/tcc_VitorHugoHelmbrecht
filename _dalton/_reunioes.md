@@ -154,9 +154,9 @@ Histórias definidas com a participação do [Nando](#nando).
 
 [Artigo_2023-06-27_EntregueBanca.pdf](Artigo_2023-06-27_EntregueBanca.pdf)  
 
-## 2023-07-04 - 17:01 Defesa
+----
 
-[Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
+## 2023-07-04 - 17:01 Defesa
 
 Colocar um citação para o Nando nos trechos do texto.  
 
@@ -164,6 +164,7 @@ Colocar um citação para o Nando nos trechos do texto.
 
 ### Valdameri
 
+![Artigo_2023-07-04_Revisao_Valdameri.jpeg](Artigo_2023-07-04_Revisao_Valdameri.jpeg)  
 Gostou da escolha do assunto.  
 Num "pique" grande.  
 Ter mais sobre a narrativa das fases, etc. Melhorar a roterização descrevendo as cenas. E, os tipos de interações das cenas.  
@@ -174,6 +175,7 @@ Melhorar o fechamento da conclusão com mensagens positivas do que pode ser feit
 
 ### Maurício
 
+[Artigo_2023-07-04_Revisao_Mauricio.docx](Artigo_2023-07-04_Revisao_Mauricio.docx)  
 Gostou do tema.  
 Ter mais explicação no texto.  
 Ilusão de ótica: ter mais ... só um canudo para uma gota de chuva.  
