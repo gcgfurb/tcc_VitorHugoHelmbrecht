@@ -1,0 +1,27 @@
+1 - Instalar o Unity na versão 2021.3.23f1 (Versões posteriores não possuem garantia de funcionamento).
+
+2 - Instalar as seguintes bibliotecas:
+	- XRInteractionToolkit + sample "Starter Assets"
+	- OpenXR Plugin
+	- Oculus XR Plugin (Caso queira utilizar o Meta Quest)
+
+3 - Para todos os próximos passos relacionados ao build das cenas é necessário saber duas coisas:
+	3.1 - A janela de configurações de build pode ser acessada em File -> Build Settings.
+	3.2 - A janela de luzes do Unity pode ser aberta em Window -> Rendering -> Lightning
+	3.3 - Para buildar uma cena é necessário abrir ela, acessar a aba "Scene" na janela de luzes do Unity e clicar em "GenerateLightning". Após isso, será necessário acessar a janela de configurações de build e clicar no botão "Add Open Scenes".
+
+4 - Para realizar o build de todas as cenas será necessário seguir a seguinte ordem para garantir que o jogo funcionará conforme o esperado:
+	1 - Abrir a cena Menu e buildar ela (Assets/Scenes)
+	2 - Abrir cada uma das 6 cenas da fase 1 e buildar elas (Assets/Scenes/Fase1)
+	3 - Abrir cada uma das 9 cenas da fase 2 e buildar elas (Assets/Scenes/Fase2)
+	4 - Abrir cada uma das 6 cenas da fase 3 e buildar elas (Assets/Scenes/Fase3)
+
+5 - Para rodar o jogo no próprio Unity, basta agora clicar no botão de play no topo central do editor.
+
+6 - Para rodar o jogo em um óculos VR, será necessário conectar o óculos no seu computador (Seja por cabo, bluetooth ou o que for) e realizar as configurações iniciais que o óculos pede. No exemplo do Meta Quest 2, é necessário instalar o software do Meta Quest no computador e, ao conectar o óculos por cabo ou air link, e automaticamente iniciada a sequência de configurações necessárias.
+
+7 - Após configurar a conexão do VR com o computador, será necessário verificar a maneira pela qual você pode acessar o modo de desenvolvedor do seu óculos. No caso do Meta Quest, esse vídeo aqui explica o passo a passo necessário para liberar esse acesso: https://www.youtube.com/watch?v=KMWfclzw7PM.
+
+8 - Assim que todas as configurações foram feitas para a conexão do óculos com o computador e foi liberado o modo desenvolvedor, existem duas formas de rodar o jogo no seu óculos. 
+	8.1 - A primeira forma e a mais simples é entrar no modo de conexão com o computador do seu óculos (Quest Link no caso do Meta Quest 2) e apertar play no Unity. Dessa maneira, o seu computador irá realizar toda a renderização do jogo e enviará o resultado para o seu óculos, mas permitindo que você interaja normalmente. 
+	8.2 - A segunda forma é indo na janela de configurações de build do Unity e clicando em "Build And Run" enquanto o seu óculos estiver conectado ao computador. Dessa meneira, o Unity irá buildar o jogo por completo, criar um APK dele e enviá-lo para o seu óculos. Assim, você pode jogar o jogo sem a necessidade de cabos, mas ao mesmo tempo você precisara refazer o build para cada alteração feita no projeto, o que se torna bem custoso caso seu objetivo seja desenvolver mais coisas no jogo.
