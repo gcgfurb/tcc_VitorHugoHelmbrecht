@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0290165866dd19241846acc0f4bac150
+  - enabled: 1
+    path: Assets/Scenes/InteractibleLevel.unity
+    guid: d4a598ada2150674a8cd96366263aeda
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Cutscene2-1.unity
+    guid: db9a856c4ab912b4db8e55cfc1bff84a
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Cutscene2-2.unity
+    guid: 43fe5409215cf7a418bbb0de1fa60155
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Cutscene2-3.unity
+    guid: 8f0211104f9a3d64185e40401e810ae2
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Cutscene2-4.unity
+    guid: 2714ded1b1108ec4c95578ba061f07b7
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Cutscene2-5.unity
+    guid: ae7252711094f6f4082d7f37ab6bb7aa
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Cutscene2-6.unity
+    guid: 9783fd7ddc64bab42ade01da0f8d2d49
+  - enabled: 1
+    path: Assets/Scenes/Fase2/Cutscene1.unity
+    guid: 1f7c937cfcc0144429d4d357be197bf1
+  - enabled: 1
+    path: Assets/Scenes/Fase2/Cutscene2.unity
+    guid: 92aa017f85174d249b13b8c4f50492ec
+  - enabled: 1
+    path: Assets/Scenes/Fase2/Cutscene3.unity
+    guid: 22b7d40d2432d004dbffa31d20ad538f
+  - enabled: 1
+    path: Assets/Scenes/Fase2/Cutscene4.unity
+    guid: a5a26930c29ac94458aa6521165fb314
+  - enabled: 1
+    path: Assets/Scenes/Fase2/Cutscene5.unity
+    guid: 43dc1487dcf9b6646a38b63e0ad0add5
+  - enabled: 1
+    path: Assets/Scenes/Fase2/Cutscene6.unity
+    guid: 371506219ea8904439a2c242fbd703a0
+  - enabled: 1
+    path: Assets/Scenes/Fase2/Cutscene7.unity
+    guid: babdd56a5828dc94080856ed7682a6fb
+  - enabled: 1
+    path: Assets/Scenes/Fase2/Cutscene8.unity
+    guid: 0443aec8fba701247a83843548ff891e
+  - enabled: 1
+    path: Assets/Scenes/Fase2/Cutscene9.unity
+    guid: cc9f410cb96f1384a97a636b2a9c657b
+  - enabled: 1
+    path: Assets/Scenes/Fase3/Cutscene3-1.unity
+    guid: 4d0ad81a47bdf69438886fb7e29fdb86
+  - enabled: 1
+    path: Assets/Scenes/Fase3/Cutscene3-2.unity
+    guid: dc3cd550b5e079f4aa8a3468c58ef976
+  - enabled: 1
+    path: Assets/Scenes/Fase3/Cutscene3-3.unity
+    guid: fcce4dd203b1d684da7567d957c31d02
+  - enabled: 1
+    path: Assets/Scenes/Fase3/Cutscene3-4.unity
+    guid: 7af965f767320e243893036470a17b9c
+  - enabled: 1
+    path: Assets/Scenes/Fase3/Cutscene3-5.unity
+    guid: e21976b61d3ea134aa354fdcd09296ae
+  - enabled: 1
+    path: Assets/Scenes/Fase3/Cutscene3-6.unity
+    guid: 8834bb48784953342b03af7d2e59e484
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122,
+      type: 2}
